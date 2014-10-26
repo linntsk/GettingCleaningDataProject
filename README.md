@@ -7,8 +7,12 @@ Getting and Cleaning Data Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. It makes use of the Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-The source data for this project can be found here.
+The original source for this project can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The data set can be downloaded from here:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 
 ##Project Summary
 
